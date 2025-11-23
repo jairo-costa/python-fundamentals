@@ -69,6 +69,13 @@ Maintained by **Jairo Costa** as part of a complete learning journey focused on 
   - Avaliação com MSE e R²
   - Visualização de valores reais vs. preditos
 
+    ## Notebooks
+
+1. `day1-basic-ml.ipynb` – First end-to-end ML pipeline (linear regression).
+2. `day2-classification-basics.ipynb` – Logistic Regression for binary classification
+   with accuracy, precision, recall, F1-score, and decision boundary visualization.
+
+
 > Resultado: modelo com excelente ajuste, demonstrando entendimento do fluxo de ML de ponta a ponta.
 
 - **Notebook:** [notebooks/day1-basic-ml.ipynb](notebooks/day1-basic-ml.ipynb)
