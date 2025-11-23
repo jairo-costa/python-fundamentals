@@ -57,3 +57,18 @@ Maintained by **Jairo Costa** as part of a complete learning journey focused on 
 
 ---
 
+## 📈 Machine Learning Notebooks
+
+### 1. Basic Linear Regression – Synthetic Data
+
+- **Notebook:** `notebooks/day1-basic-ml.ipynb`
+- **Descrição:** Primeiro pipeline completo de Machine Learning:
+  - Geração de dados sintéticos com `make_regression`
+  - Divisão em treino e teste
+  - Treinamento de um modelo de `LinearRegression`
+  - Avaliação com MSE e R²
+  - Visualização de valores reais vs. preditos
+
+> Resultado: modelo com excelente ajuste, demonstrando entendimento do fluxo de ML de ponta a ponta.
+
+- **Notebook:** [notebooks/day1-basic-ml.ipynb](notebooks/day1-basic-ml.ipynb)
